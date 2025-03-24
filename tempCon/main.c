@@ -16,7 +16,7 @@ void main() {
 
 #include "../NABULIB/NABU-LIB.h"
 #include <stdio.h>
-#include <conio.h>  // For Atari console I/O
+//#include <conio.h>  // For Atari console I/O
 #include <stdlib.h>
 
 
